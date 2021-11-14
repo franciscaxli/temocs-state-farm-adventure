@@ -1,7 +1,7 @@
 # temocs-state-farm-adventure
 
 # Name: 
-  Temoc's Insurance and Financial Adventure
+  Temoc’s Insurance and Finance Adventure
 # Description: 
   Go on an adventure with your favorite UT Dallas mascots to learn more about Insurance and Financial Planning. 
   
